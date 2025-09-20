@@ -48,8 +48,9 @@ sudo service apache2 start
 
 ### 5. Ettercap
 ```bash
-sudo ettercap -G #(enters into the graphical mode
+sudo ettercap -G #(enters into the graphical mode)
 ```
+### Configure attack:
  - Steps:
    - Sniff → Unified Sniffing → Select your network interface
    - Hosts → Scan for hosts
