@@ -54,7 +54,7 @@ sudo ettercap -G #(enters into the graphical mode)
  - Steps:
    - Sniff → Unified Sniffing → Select your network interface
    - Hosts → Scan for hosts
-   - Hosts → Host list → Add Kali and Windows IPs to Target 1 and Target 2
+   - Hosts → Host list → Add connected devices(Windows Machine) IPs to Target 1 
    - Mitm → ARP poisoning → Select “Sniff remote connections”
    - Plugins → Manage plugins → Double-click dns_spoof to activate
    
